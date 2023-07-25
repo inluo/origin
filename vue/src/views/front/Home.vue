@@ -40,12 +40,7 @@ export default {
       console.log(res.data)
       this.files = res.data.filter(v => v.type === 'png' || v.type === 'jpg' || v.type === 'webp'|| v.type === 'jpeg')
     })
-  },
-  // methods: {
-  //   down(url){
-  //     window.open(url)
-  //   }
-  // }
+  }
 }
 </script>
 

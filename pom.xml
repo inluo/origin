@@ -12,7 +12,6 @@
     <artifactId>springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot</name>
-    <description>青哥哥带你做毕设2022</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>

@@ -13,17 +13,6 @@
     <div style="height: 1px; background: #ddd; margin: 20px 0"/>
 
     <el-row :gutter="30">
-<!--      <el-col :span="12">-->
-<!--        <div style="padding: 20px 0; font-size: 20px">小白做毕设专用框架</div>-->
-<!--        <div>-->
-<!--          这是一款专门针对毕设系统设计的框架，代码简单，结构清晰，如果你是小白，一定不要错过哦-->
-<!--        </div>-->
-<!--        <div class="m-10"><el-button type="danger"><i class="el-icon-coin"></i> 免费开源</el-button></div>-->
-<!--        <div class="m-10">-->
-<!--          <el-button type="primary"><i class="el-icon-link"></i> <a style="color: #fff" href="https://github.com/xqnode/pure-design">Github源码</a></el-button>-->
-<!--          <el-button type="primary"><i class="el-icon-link"></i> <a style="color: #fff" href="https://www.bilibili.com/video/BV1U44y1W77D">B站视频讲解</a></el-button>-->
-<!--        </div>-->
-<!--      </el-col>-->
       <el-col :span="12">
         <div style="padding: 20px 0; font-size: 20px">技术选型</div>
         <el-row>
@@ -38,8 +27,6 @@
           <el-col :span="12" style="line-height: 30px">
             <b>前端</b>
             <div>Vue2</div>
-            <div>Vue-Router</div>
-            <div>VueX</div>
             <div>ElementUI</div>
             <div>Axios</div>
           </el-col>
